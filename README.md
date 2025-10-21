@@ -1,129 +1,75 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ayush Rabadia
 
-### Computer Science Student | Aspiring Software Engineer
+### Computer Science Student @ UW Tacoma
 
-> *"Building innovative solutions through code and creativity"*
+> *"Learning to build solutions through code"*
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate Computer Science student at [Your University], driven by curiosity and a love for problem-solving. My interests lie in **software development, data science, and web technologies**, and I'm constantly exploring new tools and frameworks to expand my skill set.
+I'm a Computer Science student at the University of Washington Tacoma, pursuing a BA in Computer Science with a minor in Business Administration. I'm passionate about learning new technologies and exploring how software development intersects with business strategy.
 
-**What drives me:** I believe technology has the power to transform lives and solve real-world problems. Whether it's building user-friendly applications or optimizing algorithms, I'm committed to creating meaningful impact through code.
+**What drives me:** I'm interested in understanding both the technical and business sides of technology. Combining my CS degree with business knowledge helps me think about not just how to build software, but why and for whom.
 
-**Beyond coding:** When I'm not programming, you'll find me participating in hackathons, contributing to open-source projects, or exploring the latest tech trends.
+**Currently learning:** Building my foundation in programming, working primarily with Java and starting to explore Python. I'm eager to take on new projects and grow my skills through hands-on experience.
 
-📍 **Location:** [Your City, State]  
-🎓 **Education:** Bachelor of Science in Computer Science, [University Name] (Expected [Year])  
-💼 **Career Goals:** [e.g., Software Engineer, Full-Stack Developer, Data Scientist]
+📍 **Location:** Tacoma, Washington  
+🎓 **Education:** BA in Computer Science (Minor: Business Administration), University of Washington Tacoma  
+💼 **Career Interests:** Software Development, exploring opportunities at the intersection of technology and business
 
 ---
 
 ## 💻 Projects
 
 ### 🔨 Work in Progress
-*This section will be updated quarterly with my latest projects. Stay tuned!*
-
-<!-- Template for future projects:
-
-### Project Name
-**Description:** Brief overview of what the project does and its purpose.
-
-**Technologies Used:** Python, React, Node.js, MongoDB, etc.
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Challenges & Learnings:** What obstacles did you face? What did you learn?
-
-**Links:**
-- [GitHub Repository](#)
-- [Live Demo](#)
-
-![Project Screenshot](link-to-screenshot)
-
----
--->
+*This section is currently under development and will be updated each quarter as I complete new projects. Check back soon!*
 
 ---
 
 ## 🛠️ Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) **Primary**
 
-### Frameworks & Tools
-- **Web Development:** React, Node.js, Express, Bootstrap
-- **Database:** SQL, MongoDB, PostgreSQL
-- **Developer Tools:** Git, GitHub, VS Code, Docker
-- **Other:** TensorFlow, Pandas, NumPy, REST APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Beginner**
 
-### Certifications & Coursework
-- **Relevant Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Web Development
-- **Certifications:** [Add any relevant certifications here]
+### Tools & Technologies
+- **Version Control:** Git, GitHub
+- **IDEs:** IntelliJ, Eclipse
+- **Currently Learning:** [Discrete Structures, Programming Practicum,]
+
+### Relevant Coursework
+- [Object-Oriented Programming, Data Entry]
+- [Business courses if relevant]
 
 ---
 
 ## 💼 Experience
 
-### [Role/Position] | [Organization/Company]
-**Duration:** [Month Year] - [Month Year]
-
-- Responsibility or achievement 1
-- Responsibility or achievement 2
-- Technologies used and outcomes
-
-### [Internship/Volunteer Role] | [Organization]
-**Duration:** [Month Year] - [Month Year]
-
-- Description of work and contributions
-- Impact and results
-
-### Hackathons & Competitions
-- **[Hackathon Name]** - [Achievement/Project] ([Year])
-- **[Competition Name]** - [Role/Outcome] ([Year])
+*This section will be updated as I gain experience through internships, projects, and extracurricular activities.*
 
 ---
 
 ## 📄 Resume
 
-📥 **[Download My Resume](./resume.pdf)**
-
-*Last Updated: [Month Year]*
+📥 **[Download My Resume](./resume.pdf)** *(Coming soon)*
 
 ---
 
 ## 📫 Contact Me
 
-I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
+Feel free to reach out if you'd like to connect or collaborate!
 
-- 📧 **Email:** [your.email@example.com]
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- 🌐 **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com) *(if applicable)*
+- 📧 **Email:** [ayushrabadiy491@gmail.com]
+- 💼 **LinkedIn:** [Add LinkedIn]
+- 🐙 **GitHub:** [Ayush Rabadia](https://github.com/ayushrabadia)
 
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 <div align="center">
 
-### ⭐ *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+**Thank you for visiting! This portfolio is a work in progress.**
 
-**Thank you for visiting my portfolio!**
+*Last Updated: [Current Date]*
 
 </div>
